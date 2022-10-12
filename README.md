@@ -6,8 +6,10 @@
 python -m venv venv
 ```
 
-> I recommended create a virtual enviorement and activate and after that install dependencies
+> I recommended you create a virtual enviorement and activate and after that install dependencies
 ```python
 pip install -r requirements.txt
 ```
+
+> I made it with the purpose to remember me about something that I usually forget it  
 
